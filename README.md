@@ -1,5 +1,6 @@
 # Face_attendance
 Face Detection and Attendance by OpenCV
+![Result](result.png)
 
 # Usage
 - Run file DataGenerator.py to create your custom dataset
